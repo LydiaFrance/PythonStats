@@ -5,7 +5,17 @@
 
 We will be revising how to use Python for Statistical Analysis!
 
-Skills covered in the notebook:
+## Click [here](https://github.com/LydiaFrance/PythonStats/blob/main/Statistics_with_Python_Colab.ipynb) to open the exercise notebook!
+
+There is a button at the top of the notebook to open in Google Colab. 
+
+**Remember to save your notebook locally to keep your changes**
+
+Alternatively, save this file to a new local repo and edit it locally. 
+
+Or, just follow along and use Python the way you prefer. 
+
+## Skills covered in the notebook:
 
 - Pandas Dataframes
 - Subsetting Data
@@ -19,4 +29,7 @@ Skills covered in the notebook:
 - Linear Mixed Effects Model
 - Multiple Linear Regression
 - Logistic Regression
+
+## Stats Map
+
 
