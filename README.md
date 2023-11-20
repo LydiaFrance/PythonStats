@@ -34,6 +34,7 @@ Or, just follow along and use Python the way you prefer.
 - Linear Regression
 - Linear Mixed Effects Model
 - Multiple Linear Regression
+- Train Test Split Model Validation
 - Logistic Regression
 
 
