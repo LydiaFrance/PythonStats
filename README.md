@@ -15,6 +15,12 @@ Alternatively, save this file to a new local repo and edit it locally.
 
 Or, just follow along and use Python the way you prefer. 
 
+
+## Stats Map
+
+<img src="https://github.com/LydiaFrance/PythonStats/blob/main/stats_map.png?raw=true" alt="StatsMap" style="width: 1500px;"/>
+
+
 ## Skills covered in the notebook:
 
 - Pandas Dataframes
@@ -30,6 +36,5 @@ Or, just follow along and use Python the way you prefer.
 - Multiple Linear Regression
 - Logistic Regression
 
-## Stats Map
 
 
