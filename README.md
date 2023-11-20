@@ -28,6 +28,7 @@ Or, just follow along and use Python the way you prefer.
 - Conditional Statements
 - Dictionaries
 - Loops
+- Defining functions
 - Plotting Data with Seaborn and Matplotlib
 - T-test
 - ANOVA
