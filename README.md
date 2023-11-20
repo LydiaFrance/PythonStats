@@ -16,6 +16,8 @@ Alternatively, save this file to a new local repo and edit it locally.
 Or, just follow along and use Python the way you prefer. 
 
 
+## Click [here](https://github.com/LydiaFrance/PythonStats/blob/main/Python_Stats_numbered.ipynb) for all the code from the lessons
+
 ## Stats Map
 
 <img src="https://github.com/LydiaFrance/PythonStats/blob/main/stats_map.png?raw=true" alt="StatsMap" style="width: 3000px;"/>
