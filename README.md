@@ -18,7 +18,7 @@ Or, just follow along and use Python the way you prefer.
 
 ## Stats Map
 
-<img src="https://github.com/LydiaFrance/PythonStats/blob/main/stats_map.png?raw=true" alt="StatsMap" style="width: 1500px;"/>
+<img src="https://github.com/LydiaFrance/PythonStats/blob/main/stats_map.png?raw=true" alt="StatsMap" style="width: 3000px;"/>
 
 
 ## Skills covered in the notebook:
